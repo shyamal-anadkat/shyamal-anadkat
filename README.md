@@ -19,5 +19,7 @@ I'm passionate about Software Engineering, Artificial Intelligence, &amp; Entrep
 
 📫  How to reach me: [email], [linkedIn]
 
+![Alt Text](https://media0.giphy.com/media/CVtNe84hhYF9u/giphy.gif?cid=ecf05e47x2dtm553tai3cgysdgklpxvk0jvbxaaskbx587zk&rid=giphy.gif&ct=g)
+
 [email]: mailto:shyamalanadkat@gmail.com
 [linkedIn]: https://www.linkedin.com/in/zostale/
