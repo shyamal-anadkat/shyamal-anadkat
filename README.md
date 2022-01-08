@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm passionate about Software Engineering, Artificial Intelligence, &amp; Entrepreneurship.
+I'm passionate about Software Engineering, Artificial Intelligence, &amp; Entrepreneurship
 
-- 📫  How to reach me: shyamalanadkat@gmail.com
-<div>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=shyamal-anadkat&count_private=true&show_icons=true&hide_rank=true&hide=issues&border_color=ffffff" />
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamal-anadkat&layout=compact&border_color=ffffff" />
-</div>
+📫  How to reach me: [email], [linkedIn]
+
+[email]: mailto:shyamalanadkat@gmail.com
+[linkedIn]: https://www.linkedin.com/in/zostale/
