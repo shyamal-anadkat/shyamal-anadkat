@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm passionate about Software Engineering, Artificial Intelligence, &amp; Entrepreneurship
+Let's talk about Software Engineering, Artificial Intelligence, &amp; Entrepreneurship.
 
 📫  How to reach me: [email], [linkedIn]
 
